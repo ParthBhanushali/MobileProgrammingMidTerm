@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MidTermQ3</string>
+    <!-- TODO: Remove or change this placeholder text -->
+
+        <string-array name="cities">
+            <item>New York</item>
+            <item>Los Angeles</item>
+            <item>Chicago</item>
+            <item>Houston</item>
+            <item>Phoenix</item>
+        </string-array>
+</resources>
